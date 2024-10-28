@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    width: 98%;
+    position: fixed;
+    background-color: white;
+}
+.nav a{
+    padding: 8px 16px;
+}
+.image img{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    /* height: 400px;
+    width: 1520px;
+    display: flex; */
+}
+.head{
+    text-align: center;
+}
+.box {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.box1{
+    padding: 20px;
+}
+.box2{
+    padding: 20px;
+}
+.bar{
+    background-color: lightgray;
+}
+#bar2{
+    width: 100%;
+    background-color: rgb(175, 170, 170);
+}
+#bar1{
+    color: white;
+    width: 90%;
+    background-color: black;
+}
+#bar4{
+    width: 100%;
+    background-color: rgb(175, 170, 170);
+}
+#bar3{
+    color: white;
+    width: 85%;
+    background-color: black;
+}
+#bar6{
+    width: 100%;
+    background-color: rgb(175, 170, 170);
+}
+#bar5{
+    color: white;
+    width: 75%;
+    background-color: black;
+}
+.analysis{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#about{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: #fff !important;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.ban1{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ban2{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ban3{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ban4{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.pic1{
+    width: 100%;
+    height: 400px;
+}
